@@ -11,8 +11,7 @@
 ## 1. Page Load & Display
 
 1. Check that 'قوالب الاستبيانات' screen loads within 3 seconds and displays correct title and breadcrumb navigation.
-2. Check that the screen is responsive on desktop, tablet, and mobile with proper RTL direction.
-3. Check that the screen displays correctly in both light and dark modes.
+2. Check that the screen displays correctly in both light and dark modes.
 
 ---
 
@@ -211,12 +210,6 @@
 79. Check that screen displays and functions correctly in Chrome with no console errors.
 80. Check that screen displays and functions correctly in Microsoft Edge with no console errors.
 
----
-
-## 26. Responsive Design
-
-81. Check that screen is responsive on desktop (1920x1080), tablet (768x1024), and mobile (320x480).
-82. Check that elements do not overflow or misalign on smaller screens and all interactive elements are accessible on touch devices.
 
 ---
 
@@ -251,15 +244,6 @@
 94. Check that confirmation dialogs display as modal overlays with dimmed background, centered position, and functional 'نعم' and 'إلغاء' buttons.
 95. Check that clicking outside dialog (if applicable) does not close it and confirmation message clearly indicates action consequences.
 
----
-
-## Notes for QA Team
-
-- All Arabic UI terms preserved exactly as specified.
-- Test cases cover functional, UI, validation, data, workflow, security, and performance aspects.
-- Execute tests across Chrome, Edge on desktop, tablet, and mobile.
-- Run permission-based tests with different user roles.
-- Perform regression tests after each release.
 
 ---
 
